@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f4d9b0"/>
+  <circle cx="610" cy="140" r="170" fill="#e9b872" opacity=".55"/>
+  <circle cx="140" cy="520" r="120" fill="#ffe680" opacity=".7"/>
+  <!-- 杯子 -->
+  <ellipse cx="530" cy="470" rx="150" ry="22" fill="#1d1d1f" opacity=".15"/>
+  <path d="M410 300h240l-26 160a30 30 0 0 1-30 25H466a30 30 0 0 1-30-25z" fill="#fff" stroke="#1d1d1f" stroke-width="6"/>
+  <path d="M650 330h24a34 34 0 0 1 0 68h-34" fill="none" stroke="#1d1d1f" stroke-width="6"/>
+  <ellipse cx="530" cy="300" rx="120" ry="22" fill="#c98a4b" stroke="#1d1d1f" stroke-width="6"/>
+  <ellipse cx="530" cy="300" rx="80" ry="12" fill="#e9b872"/>
+  <!-- 桂花 -->
+  <g fill="#ffb300" stroke="#1d1d1f" stroke-width="3">
+    <circle cx="505" cy="296" r="8"/><circle cx="535" cy="302" r="8"/><circle cx="558" cy="294" r="8"/><circle cx="520" cy="306" r="7"/>
+  </g>
+  <!-- 蒸氣 -->
+  <g fill="none" stroke="#1d1d1f" stroke-width="6" stroke-linecap="round" opacity=".6">
+    <path d="M490 250c-18-22 18-34 0-58"/><path d="M540 250c-18-22 18-34 0-58"/><path d="M590 250c-18-22 18-34 0-58"/>
+  </g>
+  <!-- 文字 -->
+  <text x="70" y="170" font-family="Microsoft JhengHei, sans-serif" font-size="30" font-weight="700" fill="#1d1d1f">秋季限定</text>
+  <text x="70" y="260" font-family="Microsoft JhengHei, sans-serif" font-size="84" font-weight="800" fill="#1d1d1f">桂花</text>
+  <text x="70" y="350" font-family="Microsoft JhengHei, sans-serif" font-size="84" font-weight="800" fill="#ff5a36">拿鐵</text>
+  <text x="70" y="420" font-family="Microsoft JhengHei, sans-serif" font-size="26" fill="#1d1d1f">10/1 – 11/30　每週三 買一送一</text>
+  <rect x="70" y="450" width="190" height="48" rx="24" fill="#1d1d1f"/>
+  <text x="165" y="483" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#fff">範例咖啡</text>
+</svg>
